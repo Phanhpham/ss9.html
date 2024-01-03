@@ -1,0 +1,17 @@
+.bai7{
+    width:300px;
+    height: 200px;
+    background-color: grey;
+    text-align:center;
+    line-height:200px ;
+    transition: 0.5s 0.5s;
+    color:white;
+
+}
+.bai7:hover{
+    width:250px;
+    height: 150px;
+    line-height:200px ;
+    background-color:red;
+    text-align: center;
+}
